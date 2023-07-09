@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Hashim Said</h1>
-<h4 align="center">Mobile Developer | Computer Science fresh graduate from Misr International University</h4>
+<h4 align="center">Data Engineer | Computer Science fresh graduate from Misr International University</h4>
 </div>
 
 <div align="center">
@@ -25,7 +25,7 @@
          alt="azzar" height="30"/></a>
     </p>
   <p align="center">
-      <a href="https://wa.me/+201115614030" target="blank"><img align="center"
+      <a href="https://wa.me/+20114195447" target="blank"><img align="center"
          src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
          alt="azzar" height="30"/></a>
       <br>
@@ -58,12 +58,12 @@
   <summary><h3>Languages</h3></summary>
             <p align="center">
         <a href="https://www.linkedin.com/in/hashim-said/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedbassemaly&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hashimsaid&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
           alt="hashimsaid :: overall Top Langs " /></a>
       </p>
         <p align="center">
           <a href="https://www.linkedin.com/in/hashim-said/">
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahmedbassemaly&theme=gruvbox&layout=compact&hide_border=true"
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hashimsaid&theme=gruvbox&layout=compact&hide_border=true"
           alt="hashimsaid :: Top Langs by repo" />
           <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hashimsaid&theme=gruvbox&layout=compact&hide_border=true"
           alt="hashimsaid :: Top Langs by commit" />
@@ -112,6 +112,7 @@
 
 ### 👉 Databases & Cloud Hosting
 <p align="left">
+  
   &emsp;
     <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
   &emsp;
@@ -141,6 +142,3 @@
      <a href="#"><img alt="TFigma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></a>
 </p>
   
------
-Credits: [ahmedbassemaly](https://github.com/ahmedbassemaly)
-Last Edited on: 11/02/2023
